@@ -1,6 +1,12 @@
 # NewBot
 
+Bot built by @JoaoGuimaraes,
+For learning and professional purposes:
 Bot Framework v4 core bot sample.
+
+If you want to use this project, check the info below:  O
+													   -|-
+													   /\
 
 This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to:
 
